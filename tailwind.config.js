@@ -10,6 +10,7 @@ module.exports = {
 				main: "#0F1C26",
 				overtext: "#9AF8FF",
 				undertext: "#A3DDE1",
+				subtext: "#7D96B7",
 			},
 
 			textShadow: {

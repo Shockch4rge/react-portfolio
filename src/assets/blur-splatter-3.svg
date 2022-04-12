@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="845.301" height="658.644" viewBox="0 0 845.301 658.644">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#83b1ff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#425980" stop-opacity="0.18"/>
+    </radialGradient>
+  </defs>
+  <path id="blur-splatter-3" d="M398.75,23.372C972.942-193.773,719.3,224.677,719.3,224.677S834,481.152,729,529.11c-37.471,17.115-141,36.979-323.565,9.915C188.142,539.025,5.3,436.278,5.3,289.371S-175.442,240.516,398.75,23.372Z" transform="translate(820.299 552.116) rotate(175)" fill="url(#radial-gradient)" style="mix-blend-mode: soft-light;isolation: isolate"/>
+</svg>
