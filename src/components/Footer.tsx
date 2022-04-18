@@ -1,4 +1,7 @@
-import { FaGithub, FaHeart } from "react-icons/fa";
+import { FaGithub, FaHeart, FaLinkedin, FaStackOverflow } from "react-icons/fa";
+
+import { Icon } from "./common";
+
 
 const Footer = () => {
 	return (
@@ -10,7 +13,9 @@ const Footer = () => {
 			</div>
 
 			<div className="flex justify-center items-center align-middle gap-3">
-				<FaGithub className="max-w-full hover:fill-subtext" size="2em" />
+				<Icon type={FaGithub} url="https://github.com/shockch4rge" />
+				<Icon type={FaLinkedin} url="https://www.linkedin.com/in/favian-teo-eu-kiat-133b79216/" />
+				<Icon type={FaStackOverflow} url="https://stackoverflow.com/users/16144470/shockch4rge" />
 			</div>
 		</div>
 	);
